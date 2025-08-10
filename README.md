@@ -1,23 +1,25 @@
-# todo-list-app
-Building a project  of todo-list-app using python.
-# To-Do List Application ✅
+# todo-list-app ✅
 
-A simple and responsive to-do list web app that helps you organize tasks efficiently.  
-You can add, edit, mark as complete, and delete tasks — all in an intuitive interface.
+Building a simple and efficient To-Do List application using Python.
+
+## 📌 Overview
+This To-Do List application allows you to manage your daily tasks easily.  
+You can add, edit, mark as complete, and delete tasks in a clean and intuitive interface.
 
 ## 🚀 Features
 - Add new tasks
 - Edit existing tasks
 - Mark tasks as completed
 - Delete tasks
-- Persistent storage using local storage (data stays even after refresh)
+- Save tasks so they remain even after closing the app *(if you implemented file/database storage)*
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+## 🛠 Tech Stack
+- Python 3
+- Tkinter *(for GUI)* / Flask *(if web-based)*  
+  *(Update this depending on your project type)*
 
 ## 📦 Installation & Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+
